@@ -1,5 +1,3 @@
-# Marco_De_Luca
-
 # Hi, I'm Marco 👋
 
 Passionate about **Quantitative Finance, Financial Econometrics, Machine Learning, and Data Science**.  
