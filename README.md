@@ -1,11 +1,11 @@
-# Hi, I'm Marco 👋
+# Hi, I'm Marco 
 
 Passionate about **Quantitative Finance, Financial Econometrics, Machine Learning, and Data Science**.  
 This portfolio collects a selection of my projects in quantitative modeling, financial engineering, and applied machine learning.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |----------|-------------|------------|------|
@@ -17,7 +17,7 @@ This portfolio collects a selection of my projects in quantitative modeling, fin
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Programming
 ![C++](https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus)
@@ -36,11 +36,11 @@ This portfolio collects a selection of my projects in quantitative modeling, fin
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 💼 https://www.linkedin.com/in/marco-de-luca-842057222/
-- 📧 marcodeluca.gdl@gmail.com  
-- 📧 marco4.deluca@mail.polimi.it  
+- https://www.linkedin.com/in/marco-de-luca-842057222/
+- marcodeluca.gdl@gmail.com  
+- marco4.deluca@mail.polimi.it  
 
 ---
 
