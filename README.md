@@ -1,4 +1,4 @@
-# Hi, I'm Marco 
+# Hi, I'm Marco!
 
 Passionate about **Quantitative Finance, Financial Econometrics, Machine Learning, and Data Science**.  
 This portfolio collects a selection of my projects in quantitative modeling, financial engineering, and applied machine learning.
